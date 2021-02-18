@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-- 🌱 I’m currently learning **Data Structures, Algorithms and Web Development.**
+- 🌱 I’m currently learning <strong><em>Data Structures, Algorithms and Web Development.</em></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
