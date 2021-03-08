@@ -1,16 +1,19 @@
+<body style = "background-color : white;">
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 - 🌱 I’m currently learning <strong><em>Data Structures, Algorithms and Web Development.</em></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<div>
 <a href="https://linkedin.com/in/dhruvpasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvpasricha" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruv_pasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhruv_pasricha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pasricha_dhruv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pasricha_dhruv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruv_pasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dhruv_pasricha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pasricha_dhruv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pasricha_dhruv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pasricha_dhruv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pasricha_dhruv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pasricha_dhruv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pasricha_dhruv" height="30" width="40"/></a>
 <a href="https://www.hackerearth.com/dhruv_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="dhruv_28" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhruv_pasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dhruv_pasricha" height="30" width="40" /></a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpasricha&show_icons=true&locale=en&layout=compact" alt="dhruvpasricha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpasricha&" alt="dhruvpasricha" /></p>
+</body>
