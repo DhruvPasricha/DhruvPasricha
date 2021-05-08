@@ -1,4 +1,4 @@
-<div style = "background-color : white">
+<div style = "background-color : lightblue">
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 - 🌱 I’m currently learning <strong><em>Data Structures, Algorithms and Web Development.</em></strong>
 
