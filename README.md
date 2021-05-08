@@ -1,9 +1,9 @@
-<div style = "background-color : lightblue">
+<div>
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-- 🌱 I’m currently learning <strong><em>Data Structures, Algorithms and Web Development.</em></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <div>
 <a href="https://linkedin.com/in/dhruvpasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvpasricha" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruv_pasricha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhruv_pasricha" height="30" width="40" /></a>
