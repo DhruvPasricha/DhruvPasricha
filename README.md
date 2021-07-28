@@ -1,6 +1,5 @@
 <div>
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-     -🌱 I’m currently learning <strong><em>Algorithms and Data Structures.</em></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
